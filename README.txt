@@ -10,5 +10,5 @@ README
 	- Run the python code.
 	- Put the printed chessboard paper on the flat surface.
 	- For better calibration, face the camera 90 degree to the middle of the chess board
-	- Press Q, (it sometimes crash)
+	- Press Q (it sometimes crash)
 	- The new camera calibrated window will appear.
