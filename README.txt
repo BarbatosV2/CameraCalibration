@@ -9,6 +9,7 @@ README
 
 	- Run the python code.
 	- Put the printed chessboard paper on the flat surface.
-	- For better calibration, face the camera 90 degree to the middle of the chess board
-	- Press Q (it sometimes crash)
+	- For better calibration, face the camera around 60 degree to the chess board
+	- Press Q
+	- In the terminal, you will find camera matrix and distortion coefficients matrix.
 	- The new calibrated camera window will appear.
